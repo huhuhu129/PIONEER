@@ -1,0 +1,28 @@
+# Model weights
+*.pth
+*.pt
+*.ckpt
+
+# Training results
+train_results/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files (large)
+data/human/
+data/mouse/
+data/PD/
+
+# Output
+pd_results/
