@@ -1,4 +1,4 @@
-# PIONEER: Protein InteractOme NEtwork rEconstruction fRamework
+# PIONEER reconstructs protein interactomes across tissues and disease states using dual-view graph learning of single-cell multi-omics
 
 A dual-view graph neural network for reconstructing tissue- and disease-specific protein interactomes from matched tissue-level scRNA-seq and scATAC-seq datasets.
 
@@ -93,7 +93,7 @@ Gated cross-modal fusion and NT-Xent contrastive alignment integrate both regula
 
 ## Reference
 
-PIONEER: tissue- and disease-resolved protein interactome reconstruction via dual-view graph neural networks with single-cell multi-omics.
+PIONEER reconstructs protein interactomes across tissues and disease states using dual-view graph learning of single-cell multi-omics.
 
 ## License
 
