@@ -15,8 +15,8 @@ PIONEER/
 ├── inference/
 │   └── pd_predict.py          # PD-specific interactome inference
 ├── data/
-│   ├── human/                 # Human tissue preprocessed data (9 organs)
-│   ├── mouse/                 # Mouse tissue preprocessed data (7 organs)
+│   ├── human/                 # Human tissue preprocessed data (Brain, Heart, Kidney, Muscle, Pancreas, Spleen)
+│   ├── mouse/                 # Mouse tissue preprocessed data (Brain, Heart, Kidney, Liver, Lung, Muscle, Thymus)
 │   └── PD/                    # PD midbrain data for transfer learning
 ├── requirements.txt
 └── README.md
@@ -86,9 +86,9 @@ Gated cross-modal fusion and NT-Xent contrastive alignment integrate both regula
 
 ## Data Sources
 
-- **Mouse**: Tabula Muris scRNA-seq; ENCODE mouse scATAC-seq; PCP-SILAM gold-standard PPIs
-- **Human**: Tabula Sapiens scRNA-seq; Human scATAC-Corpus; BICCN STRATOME (brain); IID gold-standard PPIs
-- **PD**: GSE157783 (snRNA-seq); GSE147672 (snATAC-seq, post-hoc annotation only)
+- **Mouse (7 tissues)**: Brain, Heart, Kidney, Liver, Lung, Muscle, Thymus — Tabula Muris scRNA-seq; ENCODE mouse scATAC-seq; PCP-SILAM gold-standard PPIs
+- **Human (6 tissues)**: Brain, Heart, Kidney, Muscle, Pancreas, Spleen — Tabula Sapiens scRNA-seq; Human scATAC-Corpus; BICCN STRATOME (brain); IID gold-standard PPIs
+- **PD**: GSE157783 (snRNA-seq, model input); GSE147672 (snATAC-seq, post-hoc annotation only)
 - **Global PPI scaffold**: STRING v12.0
 
 ## Reference
