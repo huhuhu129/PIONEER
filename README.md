@@ -18,6 +18,13 @@ PIONEER/
 │   ├── human/                 # Human tissue preprocessed data (Brain, Heart, Kidney, Muscle, Pancreas, Spleen)
 │   ├── mouse/                 # Mouse tissue preprocessed data (Brain, Heart, Kidney, Liver, Lung, Muscle, Thymus)
 │   └── PD/                    # PD midbrain data for transfer learning
+├── figures/
+│   ├── README.md              # Overview of the main figure plotting scripts
+│   ├── fig2/                  # Fig. 2 robustness/stability script + data
+│   ├── fig3/                  # Fig. 3 PINNACLE benchmark script + data
+│   ├── fig4/                  # Fig. 4 RNA/ATAC ablation script + data
+│   ├── fig5/                  # Fig. 5 tissue-specificity script + data
+│   └── fig6/                  # Fig. 6 PD transfer script + data
 ├── requirements.txt
 └── README.md
 ```
