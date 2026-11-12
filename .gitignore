@@ -19,10 +19,12 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Data files (large)
+# Data files (large) — only the mouse Brain example dataset is committed for reviewers
 data/human/
-data/mouse/
 data/PD/
+data/mouse/*
+!data/mouse/Brain/
+!data/mouse/Brain/*_features_tensor.pt
 
 # Output
 pd_results/

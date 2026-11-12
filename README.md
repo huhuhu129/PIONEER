@@ -55,6 +55,11 @@ data/{species}/{Tissue}/
     └── G_tissue_val.pickle
 ```
 
+> **Example dataset included:** a complete mouse **Brain** dataset is provided
+> at `data/mouse/Brain/` (with all 5 folds) so reviewers can run the code
+> immediately, e.g. `python train.py --species mouse --tissue Brain --fold 1`.
+> Other tissues must be downloaded and preprocessed following the Methods.
+
 ### 3. Train
 
 Single tissue, single fold:
