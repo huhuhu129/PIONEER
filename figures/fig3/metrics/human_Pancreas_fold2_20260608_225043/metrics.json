@@ -1,0 +1,22 @@
+{
+  "tissue": "Pancreas",
+  "species": "human",
+  "fold": 2,
+  "fusion": "gate",
+  "params": 174468,
+  "train_edges": 217,
+  "val_edges": 55,
+  "rna_nodes": 1564,
+  "atac_nodes": 4613,
+  "auc": 0.959659,
+  "aupr": 0.853429,
+  "acc": 0.934426,
+  "f1": 0.703704,
+  "precision": 0.633333,
+  "recall": 0.791667,
+  "best_epoch": 275,
+  "total_epochs": 280,
+  "optimal_threshold": 0.69565,
+  "acc_optimal": 0.967213,
+  "f1_optimal": 0.818182
+}

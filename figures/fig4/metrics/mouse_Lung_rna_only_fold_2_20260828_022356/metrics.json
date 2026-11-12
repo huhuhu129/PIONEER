@@ -1,0 +1,8 @@
+{
+  "best_auc": 0.9185288442740696,
+  "best_aupr": 0.9141558760803021,
+  "fold": 2,
+  "tissue": "Lung",
+  "species": "mouse",
+  "fusion": "rna_only"
+}

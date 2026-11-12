@@ -1,0 +1,19 @@
+{
+  "fold": 1,
+  "fusion": "gate",
+  "lr": 0.0005,
+  "weight_decay": 1e-05,
+  "epochs": 500,
+  "patience": 80,
+  "train_strategy": "fusion_nodes_only",
+  "rna_nodes": 2704,
+  "atac_nodes": 3842,
+  "intersection_nodes": 758,
+  "inter_train_edges": 3124,
+  "inter_val_edges": 799,
+  "auc": 0.644704,
+  "aupr": 0.631787,
+  "acc": 0.5,
+  "f1": 0.666667,
+  "best_epoch": 495
+}

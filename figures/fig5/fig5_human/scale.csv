@@ -1,0 +1,6 @@
+tissue,pred_nodes,pred_edges,gold_nodes,gold_edges
+Heart,909,36524,1216,18262
+Kidney,797,33554,1199,16777
+Muscle,850,37036,1124,18518
+Pancreas,822,34842,1170,17421
+Spleen,955,43282,1170,21641

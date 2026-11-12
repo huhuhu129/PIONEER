@@ -1,0 +1,22 @@
+{
+  "tissue": "Muscle",
+  "species": "human",
+  "fold": 5,
+  "fusion": "gate",
+  "params": 174468,
+  "train_edges": 259,
+  "val_edges": 64,
+  "rna_nodes": 1455,
+  "atac_nodes": 4629,
+  "auc": 0.887913,
+  "aupr": 0.597919,
+  "acc": 0.903394,
+  "f1": 0.478873,
+  "precision": 0.414634,
+  "recall": 0.566667,
+  "best_epoch": 250,
+  "total_epochs": 255,
+  "optimal_threshold": 0.895166,
+  "acc_optimal": 0.953003,
+  "f1_optimal": 0.590909
+}

@@ -1,0 +1,21 @@
+{
+  "tissue": "Spleen",
+  "species": "human",
+  "fold": 3,
+  "fusion": "gate",
+  "params": 174468,
+  "train_edges": 492,
+  "val_edges": 123,
+  "rna_nodes": 1337,
+  "atac_nodes": 4662,
+  "auc": 0.908333,
+  "aupr": 0.925577,
+  "acc": 0.85,
+  "f1": 0.839286,
+  "precision": 0.903846,
+  "recall": 0.783333,
+  "eval_pos_count": 60,
+  "eval_neg_count": 60,
+  "best_epoch": 335,
+  "total_epochs": 340
+}

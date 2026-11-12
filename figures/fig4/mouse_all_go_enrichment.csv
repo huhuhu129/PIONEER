@@ -1,0 +1,61 @@
+Term,Overlap,P-value,Adjusted P-value,tissue,variant
+peptide biosynthetic process (GO:0043043),23/162,2.7454903330292427e-21,3.887614311569407e-18,Heart,rna_only
+translation (GO:0006412),24/214,1.0620609136174834e-19,7.519391268411781e-17,Heart,rna_only
+cellular protein metabolic process (GO:0044267),28/417,7.163032537175812e-17,3.3809513575469836e-14,Heart,rna_only
+gene expression (GO:0010467),26/356,1.3250943708165001e-16,4.649340802275618e-14,Heart,rna_only
+cytoplasmic translation (GO:0002181),16/93,1.6417163849843286e-16,4.649340802275618e-14,Heart,rna_only
+protein targeting to ER (GO:0045047),16/103,8.966386359163392e-16,2.116067180762561e-13,Heart,rna_only
+SRP-dependent cotranslational protein targeting to membrane (GO:0006614),15/90,2.4553556659329504e-15,4.966833747087227e-13,Heart,rna_only
+cotranslational protein targeting to membrane (GO:0006613),15/94,4.832673203213449e-15,8.553831569687804e-13,Heart,rna_only
+cellular macromolecule biosynthetic process (GO:0034645),23/314,8.063492334686489e-15,1.2686561273240077e-12,Heart,rna_only
+mitochondrial translational elongation (GO:0070125),13/89,1.1031047665871444e-12,1.4199966813521786e-10,Heart,rna_only
+mitochondrial translational termination (GO:0070126),13/89,1.1031047665871444e-12,1.4199966813521786e-10,Heart,rna_only
+"nuclear-transcribed mRNA catabolic process, nonsense-mediated decay (GO:0000184)",14/113,1.4886918947436732e-12,1.7566564357975344e-10,Heart,rna_only
+translational termination (GO:0006415),13/96,3.000695552987914e-12,3.268449925408374e-10,Heart,rna_only
+translational elongation (GO:0006414),13/104,8.551409153073795e-12,8.649139543394637e-10,Heart,rna_only
+mitochondrial translation (GO:0032543),13/105,9.684939290032948e-12,9.142582689791103e-10,Heart,rna_only
+cellular protein modification process (GO:0006464),29/1025,4.53217314774284e-07,0.000649460412071549,Heart,atac_only
+translation (GO:0006412),12/214,1.827949744834525e-06,0.0010975060831522,Heart,atac_only
+post-translational protein modification (GO:0043687),15/345,2.2976400903397447e-06,0.0010975060831522,Heart,atac_only
+cellular protein metabolic process (GO:0044267),16/417,5.2279144953821365e-06,0.0018729003679706,Heart,atac_only
+regulation of stress fiber assembly (GO:0051492),7/74,9.496749860813229e-06,0.002721768510109,Heart,atac_only
+fatty acid oxidation (GO:0019395),6/59,2.7657945613044796e-05,0.0066056393439155,Heart,atac_only
+cellular amino acid catabolic process (GO:0009063),7/90,3.443541003632205e-05,0.0070382529565466,Heart,atac_only
+peptide biosynthetic process (GO:0043043),9/162,3.929241008539663e-05,0.0070382529565466,Heart,atac_only
+muscle contraction (GO:0006936),8/129,4.8835342211992565e-05,0.0077756717099761,Heart,atac_only
+fatty acid catabolic process (GO:0009062),6/70,7.344096365196465e-05,0.0095935476963405,Heart,atac_only
+regulation of endopeptidase activity (GO:0052548),6/71,7.955567148754858e-05,0.0095935476963405,Heart,atac_only
+fatty acid alpha-oxidation (GO:0001561),3/9,8.033675670348003e-05,0.0095935476963405,Heart,atac_only
+regulation of transcription from RNA polymerase II promoter in response to hypoxia (GO:0061418),6/75,0.00010819306656173378,0.0113831738345922,Heart,atac_only
+neutrophil degranulation (GO:0043312),15/481,0.0001112103514893873,0.0113831738345922,Heart,atac_only
+neutrophil activation involved in immune response (GO:0002283),15/485,0.00012180290606247496,0.0116362376258351,Heart,atac_only
+cellular protein metabolic process (GO:0044267),18/417,3.001004017577634e-10,3.430278388730164e-07,Thymus,rna_only
+cytoplasmic translation (GO:0002181),10/93,5.64190524462198e-10,3.430278388730164e-07,Thymus,rna_only
+translation (GO:0006412),13/214,1.7596085953166267e-09,7.132280173016727e-07,Thymus,rna_only
+peptide biosynthetic process (GO:0043043),11/162,1.0420160180989856e-08,3.167728695020916e-06,Thymus,rna_only
+neutrophil degranulation (GO:0043312),16/481,1.1888743201932305e-07,2.1984425761841905e-05,Thymus,rna_only
+neutrophil activation involved in immune response (GO:0002283),16/485,1.330357410274e-07,2.1984425761841905e-05,Thymus,rna_only
+SRP-dependent cotranslational protein targeting to membrane (GO:0006614),8/90,1.4312073598544834e-07,2.1984425761841905e-05,Thymus,rna_only
+neutrophil mediated immunity (GO:0002446),16/488,1.4463438001211778e-07,2.1984425761841905e-05,Thymus,rna_only
+cellular macromolecule biosynthetic process (GO:0034645),13/314,1.661863004298315e-07,2.245361570251946e-05,Thymus,rna_only
+cotranslational protein targeting to membrane (GO:0006613),8/94,2.0104254516394995e-07,2.444677349193631e-05,Thymus,rna_only
+protein targeting to ER (GO:0045047),8/103,4.0862573969081765e-07,4.517171813309401e-05,Thymus,rna_only
+regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway (GO:1900739),5/26,6.829032905685473e-07,6.0206121359920525e-05,Thymus,rna_only
+positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway (GO:1900740),5/26,6.829032905685473e-07,6.0206121359920525e-05,Thymus,rna_only
+gene expression (GO:0010467),13/356,6.931625814464534e-07,6.0206121359920525e-05,Thymus,rna_only
+"nuclear-transcribed mRNA catabolic process, nonsense-mediated decay (GO:0000184)",8/113,8.32292496459021e-07,6.74711783796113e-05,Thymus,rna_only
+cytoplasmic translation (GO:0002181),25/93,1.47060764304626e-30,1.7191403347210776e-27,Thymus,atac_only
+"nuclear-transcribed mRNA catabolic process, nonsense-mediated decay (GO:0000184)",24/113,1.1884624547009926e-26,6.946563047727301e-24,Thymus,atac_only
+SRP-dependent cotranslational protein targeting to membrane (GO:0006614),22/90,5.653344313288409e-26,2.2029198340780506e-23,Thymus,atac_only
+cotranslational protein targeting to membrane (GO:0006613),22/94,1.6265308886712463e-25,4.753536522141717e-23,Thymus,atac_only
+protein targeting to ER (GO:0045047),22/103,1.4631651311602706e-24,3.420880076652713e-22,Thymus,atac_only
+peptide biosynthetic process (GO:0043043),25/162,4.6547298398705474e-24,9.068965304681117e-22,Thymus,atac_only
+nuclear-transcribed mRNA catabolic process (GO:0000956),25/171,1.8754386951613625e-23,3.131982620919475e-21,Thymus,atac_only
+cellular protein metabolic process (GO:0044267),34/417,3.784943734224361e-23,5.5307490316353466e-21,Thymus,atac_only
+translation (GO:0006412),26/214,3.071455575422073e-22,3.989479519631559e-20,Thymus,atac_only
+gene expression (GO:0010467),30/356,6.920220130878229e-21,8.089737332996651e-19,Thymus,atac_only
+cellular macromolecule biosynthetic process (GO:0034645),26/314,5.272381783810071e-18,5.60310391388543e-16,Thymus,atac_only
+rRNA metabolic process (GO:0016072),19/162,3.23505627337689e-16,3.1514839863146544e-14,Thymus,atac_only
+rRNA processing (GO:0006364),19/173,1.1150950605730209e-15,1.0027277890845087e-13,Thymus,atac_only
+ribosome biogenesis (GO:0042254),19/192,7.76752044062748e-15,6.485879567923946e-13,Thymus,atac_only
+ncRNA processing (GO:0034470),19/201,1.8078745445765077e-14,1.4089368950732918e-12,Thymus,atac_only

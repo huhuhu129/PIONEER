@@ -1,0 +1,21 @@
+{
+  "fold": 1,
+  "fusion": "gate",
+  "lr": 0.001,
+  "weight_decay": 1e-05,
+  "hidden_dim": 128,
+  "rna_nodes": 2704,
+  "atac_nodes": 3842,
+  "intersection_nodes": 758,
+  "inter_train_edges": 3124,
+  "inter_val_edges": 799,
+  "intersection_auc": 0.822071,
+  "intersection_aupr": 0.811916,
+  "intersection_acc": 0.714643,
+  "intersection_f1": 0.758985,
+  "union_auc": 0.809099,
+  "union_aupr": 0.812234,
+  "union_acc": 0.737848,
+  "union_f1": 0.746677,
+  "best_epoch": 495
+}

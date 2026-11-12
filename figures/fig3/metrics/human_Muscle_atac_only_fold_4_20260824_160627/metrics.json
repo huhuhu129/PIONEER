@@ -1,0 +1,8 @@
+{
+  "best_auc": 0.89453125,
+  "best_aupr": 0.9001224839856456,
+  "fold": 4,
+  "tissue": "Muscle",
+  "species": "human",
+  "fusion": "atac_only"
+}

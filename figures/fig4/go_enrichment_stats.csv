@@ -1,0 +1,7 @@
+集合,GO条目数
+rna_only总数,69
+atac_only总数,68
+仅rna_only(RNA特异),44
+仅atac_only(ATAC特异),43
+共享(gate/共有),25
+总去重,112

@@ -1,0 +1,21 @@
+{
+  "tissue": "Heart",
+  "species": "human",
+  "fold": 5,
+  "fusion": "gate",
+  "params": 174468,
+  "train_edges": 1160,
+  "val_edges": 290,
+  "rna_nodes": 1440,
+  "atac_nodes": 4630,
+  "auc": 0.896107,
+  "aupr": 0.907922,
+  "acc": 0.792553,
+  "f1": 0.763636,
+  "precision": 0.887324,
+  "recall": 0.670213,
+  "eval_pos_count": 94,
+  "eval_neg_count": 94,
+  "best_epoch": 210,
+  "total_epochs": 215
+}

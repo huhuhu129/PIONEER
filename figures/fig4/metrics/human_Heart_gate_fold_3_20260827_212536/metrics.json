@@ -1,0 +1,8 @@
+{
+  "best_auc": 0.855935328988962,
+  "best_aupr": 0.8628244891331849,
+  "fold": 3,
+  "tissue": "Heart",
+  "species": "human",
+  "fusion": "gate"
+}

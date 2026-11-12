@@ -1,0 +1,21 @@
+{
+  "tissue": "Brain",
+  "species": "human",
+  "fold": 1,
+  "fusion": "gate",
+  "params": 174468,
+  "train_edges": 110382,
+  "val_edges": 27596,
+  "rna_nodes": 2704,
+  "atac_nodes": 3842,
+  "auc": 0.803988,
+  "aupr": 0.800854,
+  "acc": 0.734748,
+  "f1": 0.734396,
+  "precision": 0.735372,
+  "recall": 0.733422,
+  "eval_pos_count": 754,
+  "eval_neg_count": 754,
+  "best_epoch": 95,
+  "total_epochs": 100
+}

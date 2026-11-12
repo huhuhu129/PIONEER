@@ -1,0 +1,8 @@
+{
+  "best_auc": 0.8177777777777778,
+  "best_aupr": 0.8453465623611821,
+  "fold": 3,
+  "tissue": "Spleen",
+  "species": "human",
+  "fusion": "rna_only"
+}

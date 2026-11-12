@@ -1,0 +1,8 @@
+{
+  "best_auc": 0.8333179824185616,
+  "best_aupr": 0.8431199293357882,
+  "fold": 3,
+  "tissue": "Pancreas",
+  "species": "human",
+  "fusion": "atac_only"
+}

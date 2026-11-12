@@ -1,0 +1,6 @@
+tissue,pred_nodes,pred_edges,gold_nodes,gold_edges
+Brain,2678,45346,2347,22673
+Heart,3769,71072,1794,35536
+Kidney,3153,69694,2172,34847
+Lung,3334,52276,1794,26138
+Thymus,2933,49802,1329,24901

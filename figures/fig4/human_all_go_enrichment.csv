@@ -1,0 +1,149 @@
+Term,Overlap,P-value,Adjusted P-value,tissue,variant
+cell-cell adhesion via plasma-membrane adhesion molecules (GO:0098742),9/170,6.556145972717409e-07,0.0007146199110261976,Heart,rna_only
+calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules (GO:0016339),5/36,1.9650728261134837e-06,0.0010709646902318,Heart,rna_only
+potassium ion transport (GO:0006813),7/122,7.110600408810249e-06,0.0025835181485343,Heart,rna_only
+cardiac muscle tissue development (GO:0048738),5/53,1.3828673192712806e-05,0.0026009849867907,Heart,rna_only
+heart morphogenesis (GO:0003007),5/53,1.3828673192712806e-05,0.0026009849867907,Heart,rna_only
+positive regulation of cellular component biogenesis (GO:0044089),6/92,1.5878953683566437e-05,0.0026009849867907,Heart,rna_only
+potassium ion transmembrane transport (GO:0071805),7/139,1.670357330966558e-05,0.0026009849867907,Heart,rna_only
+cell junction assembly (GO:0034329),6/102,2.8608716252951417e-05,0.0038979375894646,Heart,rna_only
+BMP signaling pathway (GO:0030509),5/65,3.766008115296898e-05,0.0045610542729706,Heart,rna_only
+cellular response to BMP stimulus (GO:0071773),5/71,5.774385326912409e-05,0.0062940800063345,Heart,rna_only
+positive regulation of potassium ion transport (GO:0043268),4/38,6.809624412422633e-05,0.006747718735946,Heart,rna_only
+positive regulation of cation transmembrane transport (GO:1904064),4/41,9.218070206736858e-05,0.0072253125572928,Heart,rna_only
+circulatory system development (GO:0072359),6/126,9.348800094216292e-05,0.0072253125572928,Heart,rna_only
+potassium ion import across plasma membrane (GO:1990573),4/42,0.00010143001742893676,0.0072253125572928,Heart,rna_only
+heart looping (GO:0001947),4/43,0.00011133492783334424,0.0072253125572928,Heart,rna_only
+protein phosphorylation (GO:0006468),12/496,2.999260802782099e-07,0.00029722674555570603,Heart,atac_only
+phosphorylation (GO:0016310),10/400,2.3833894574378903e-06,0.0011809694761604,Heart,atac_only
+regulation of small GTPase mediated signal transduction (GO:0051056),6/141,1.4898417632185963e-05,0.0048969756106634,Heart,atac_only
+cellular protein modification process (GO:0006464),14/1025,2.3676918080930948e-05,0.0048969756106634,Heart,atac_only
+positive regulation of cellular component biogenesis (GO:0044089),5/92,2.470724324249993e-05,0.0048969756106634,Heart,atac_only
+vasculature development (GO:0001944),3/17,3.316283417354235e-05,0.0051894547595488,Heart,atac_only
+regulation of intracellular signal transduction (GO:1902531),9/437,3.665608810983011e-05,0.0051894547595488,Heart,atac_only
+cardiac muscle tissue development (GO:0048738),4/53,4.646491973782466e-05,0.005755841932523,Heart,atac_only
+negative regulation of signal transduction (GO:0009968),7/267,6.394351435368435e-05,0.0068561377279066,Heart,atac_only
+positive regulation of cellular component organization (GO:0051130),5/114,6.918403358129778e-05,0.0068561377279066,Heart,atac_only
+cytoskeleton organization (GO:0007010),5/120,8.826092293943626e-05,0.0079515067848164,Heart,atac_only
+BMP signaling pathway (GO:0030509),4/65,0.00010384225562795618,0.0083682387047884,Heart,atac_only
+cardiac conduction system development (GO:0003161),3/25,0.00010977507887209828,0.0083682387047884,Heart,atac_only
+positive regulation of BMP signaling pathway (GO:0030513),3/27,0.00013885497707893804,0.0090749281109922,Heart,atac_only
+transmembrane receptor protein serine/threonine kinase signaling pathway (GO:0007178),5/133,0.00014333105350763974,0.0090749281109922,Heart,atac_only
+alpha-amino acid catabolic process (GO:1901606),4/30,2.623784252745423e-07,8.947104301861891e-05,Kidney,rna_only
+aromatic amino acid family catabolic process (GO:0009074),3/16,3.209962527762303e-06,0.0005472986109834727,Kidney,rna_only
+cellular amino acid catabolic process (GO:0009063),4/90,2.2601973281028904e-05,0.0025690909629436,Kidney,rna_only
+monocarboxylic acid biosynthetic process (GO:0072330),3/63,0.00021440666110315445,0.007407669877979,Kidney,rna_only
+organic acid transport (GO:0015849),3/100,0.0008329373632247138,0.0202879743471162,Kidney,rna_only
+ion transport (GO:0006811),3/116,0.001279351925692,0.0272661879163126,Kidney,rna_only
+fatty acid metabolic process (GO:0006631),3/124,0.001549557328082,0.0293555027153316,Kidney,rna_only
+monocarboxylic acid metabolic process (GO:0032787),3/143,0.002327564166303,0.0417736516162802,Kidney,rna_only
+negative regulation of programmed cell death (GO:0043069),3/381,0.0330554458003971,0.0834956075402625,Kidney,rna_only
+nervous system development (GO:0007399),3/447,0.0492178471419667,0.0952536391225996,Kidney,rna_only
+regulation of apoptotic process (GO:0042981),3/742,0.1568997932136773,0.2042935684415167,Kidney,rna_only
+"regulation of transcription, DNA-templated (GO:0006355)",5/2244,0.4023065911353111,0.4366904859365161,Kidney,rna_only
+regulation of transcription by RNA polymerase II (GO:0006357),4/2206,0.594542457831805,0.6109522849571357,Kidney,rna_only
+anterior/posterior pattern specification (GO:0009952),4/63,0.00011815877294570084,0.091218572714081,Kidney,atac_only
+protein phosphorylation (GO:0006468),8/496,0.0008207403204666207,0.1214230158469144,Kidney,atac_only
+phosphorylation (GO:0016310),7/400,0.0011009858949849,0.1214230158469144,Kidney,atac_only
+tRNA processing (GO:0008033),3/64,0.002154176475154,0.1431767496325293,Kidney,atac_only
+tRNA modification (GO:0006400),3/65,0.0022519520756684,0.1431767496325293,Kidney,atac_only
+positive regulation of multicellular organismal process (GO:0051240),6/345,0.0025964695529215,0.1431767496325293,Kidney,atac_only
+transmembrane receptor protein tyrosine kinase signaling pathway (GO:0007169),6/404,0.005599038834447,0.1592480654003526,Kidney,atac_only
+protein complex oligomerization (GO:0051259),3/90,0.0056391272066494,0.1592480654003526,Kidney,atac_only
+cellular protein modification process (GO:0006464),10/1025,0.0075941329338201,0.1592480654003526,Kidney,atac_only
+activation of GTPase activity (GO:0090630),3/105,0.0086218774420227,0.1592480654003526,Kidney,atac_only
+regulation of apoptotic process (GO:0042981),8/742,0.0095554832161048,0.1592480654003526,Kidney,atac_only
+regulation of protein kinase activity (GO:0045859),3/110,0.0097861212719715,0.1592480654003526,Kidney,atac_only
+positive regulation of GTPase activity (GO:0043547),4/214,0.0107024078324684,0.1592480654003526,Kidney,atac_only
+regulation of cell growth (GO:0001558),4/217,0.0112188784684374,0.1592480654003526,Kidney,atac_only
+ion transport (GO:0006811),3/116,0.0112986404864046,0.1592480654003526,Kidney,atac_only
+cardiac muscle tissue development (GO:0048738),4/53,8.522502796162638e-06,0.002251899100567,Muscle,rna_only
+muscle tissue morphogenesis (GO:0060415),3/17,9.172705093959606e-06,0.002251899100567,Muscle,rna_only
+ventricular septum morphogenesis (GO:0060412),3/28,4.336127763984538e-05,0.0069511745096306,Muscle,rna_only
+aortic valve morphogenesis (GO:0003180),3/32,6.520004054248621e-05,0.0069511745096306,Muscle,rna_only
+aortic valve development (GO:0003176),3/36,9.321226877020766e-05,0.0069511745096306,Muscle,rna_only
+ventricular septum development (GO:0003281),3/38,0.00010975291098068598,0.0069511745096306,Muscle,rna_only
+cell junction assembly (GO:0034329),4/102,0.00011325742581883,0.0069511745096306,Muscle,rna_only
+axon guidance (GO:0007411),5/203,0.00013603350597125822,0.0072802390121893,Muscle,rna_only
+myofibril assembly (GO:0030239),3/43,0.00015918135348250015,0.0072802390121893,Muscle,rna_only
+axonogenesis (GO:0007409),5/240,0.00029590714888523274,0.0102762695730012,Muscle,rna_only
+heart morphogenesis (GO:0003007),3/53,0.0002970082588106685,0.0102762695730012,Muscle,rna_only
+striated muscle contraction (GO:0006941),3/54,0.0003139389889918914,0.0102762695730012,Muscle,rna_only
+anterior/posterior pattern specification (GO:0009952),3/63,0.0004948973554784981,0.0134997000855523,Muscle,rna_only
+actomyosin structure organization (GO:0031032),3/76,0.0008567658042622704,0.0187305569377419,Muscle,rna_only
+negative regulation of blood vessel morphogenesis (GO:2000181),3/78,0.0009239817749668942,0.0189031271461977,Muscle,rna_only
+anterior/posterior pattern specification (GO:0009952),4/63,2.1603779900995293e-05,0.0124869847827752,Muscle,atac_only
+aortic valve morphogenesis (GO:0003180),3/32,7.795451173260682e-05,0.0206677591193661,Muscle,atac_only
+aortic valve development (GO:0003176),3/36,0.00011139657298191172,0.0206677591193661,Muscle,atac_only
+cell junction assembly (GO:0034329),4/102,0.00014302947487450634,0.0206677591193661,Muscle,atac_only
+heart morphogenesis (GO:0003007),3/53,0.00035427612501826705,0.037733921182211,Muscle,atac_only
+axonogenesis (GO:0007409),5/240,0.0003917016039675885,0.037733921182211,Muscle,atac_only
+axon guidance (GO:0007411),4/203,0.0019061658653434,0.0786974192977502,Muscle,atac_only
+regulation of cytosolic calcium ion concentration (GO:0051480),3/148,0.0067325064198606,0.1036133967899348,Muscle,atac_only
+generation of neurons (GO:0048699),3/202,0.0156078799508563,0.1036133967899348,Muscle,atac_only
+regulation of transcription by RNA polymerase II (GO:0006357),11/2206,0.0243780540985656,0.1118294862616742,Muscle,atac_only
+"regulation of transcription, DNA-templated (GO:0006355)",11/2244,0.0272802953772909,0.1149655797163322,Muscle,atac_only
+nervous system development (GO:0007399),4/447,0.0286972527782175,0.1149655797163322,Muscle,atac_only
+cellular component assembly (GO:0022607),3/261,0.0303757896848597,0.1149655797163322,Muscle,atac_only
+positive regulation of programmed cell death (GO:0043068),3/286,0.0382535393057599,0.1165463749829908,Muscle,atac_only
+positive regulation of apoptotic process (GO:0043065),3/310,0.0467056319480523,0.1221531912487523,Muscle,atac_only
+positive regulation of epithelial cell proliferation (GO:0050679),5/123,5.0884224788488006e-06,0.002197515489026,Pancreas,rna_only
+insulin secretion (GO:0030073),3/20,8.896823842210735e-06,0.002197515489026,Pancreas,rna_only
+regulation of keratinocyte proliferation (GO:0010837),3/24,1.570609485653805e-05,0.0025862702863765,Pancreas,rna_only
+response to peptide hormone (GO:0043434),3/52,0.00016479712693431983,0.011629968672222,Pancreas,rna_only
+protein autophosphorylation (GO:0046777),4/159,0.00030974226262571225,0.0170014086374557,Pancreas,rna_only
+chemical synaptic transmission (GO:0007268),5/306,0.0003871591892425887,0.0191256639485838,Pancreas,rna_only
+protein phosphorylation (GO:0006468),6/496,0.0004856841782632184,0.0218116349147299,Pancreas,rna_only
+negative regulation of multicellular organismal process (GO:0051241),4/214,0.0009464540654062888,0.0359652544854389,Pancreas,rna_only
+anterograde trans-synaptic signaling (GO:0098916),4/244,0.0015357436999714,0.0446269051638773,Pancreas,rna_only
+nervous system development (GO:0007399),5/447,0.0021063230727378,0.0531695947820504,Pancreas,rna_only
+positive regulation of transcription by RNA polymerase II (GO:0045944),7/908,0.0022602459320304,0.0531695947820504,Pancreas,rna_only
+neuron projection morphogenesis (GO:0048812),3/140,0.0029459050103519,0.0626597164317491,Pancreas,rna_only
+positive regulation of protein kinase activity (GO:0045860),3/154,0.003851716639703,0.0679552864290462,Pancreas,rna_only
+positive regulation of protein kinase B signaling (GO:0051897),3/161,0.004361594195256,0.0700334146783087,Pancreas,rna_only
+cellular protein modification process (GO:0006464),7/1025,0.0044353835307369,0.0700334146783087,Pancreas,rna_only
+protein phosphorylation (GO:0006468),8/496,7.602329998147502e-06,0.0042344978089681,Pancreas,atac_only
+protein autophosphorylation (GO:0046777),5/159,1.9999364493381755e-05,0.0055698230114068,Pancreas,atac_only
+peptidyl-tyrosine modification (GO:0018212),3/56,0.0002209045551098438,0.018616037828055,Pancreas,atac_only
+regulation of MAPK cascade (GO:0043408),4/166,0.0004006134135219072,0.0190166269929546,Pancreas,atac_only
+peptidyl-tyrosine phosphorylation (GO:0018108),3/69,0.0004096939388069228,0.0190166269929546,Pancreas,atac_only
+positive regulation of kinase activity (GO:0033674),3/114,0.0017610661725332,0.059521788258613,Pancreas,atac_only
+potassium ion transport (GO:0006813),3/122,0.0021372275855875,0.059521788258613,Pancreas,atac_only
+regulation of cell adhesion (GO:0030155),3/133,0.0027307474774376,0.0661315802144685,Pancreas,atac_only
+potassium ion transmembrane transport (GO:0071805),3/139,0.0030932562920474,0.0683905491610238,Pancreas,atac_only
+enzyme linked receptor protein signaling pathway (GO:0007167),3/140,0.003156406851952,0.0683905491610238,Pancreas,atac_only
+chemical synaptic transmission (GO:0007268),4/306,0.00380615805851,0.0715054442548638,Pancreas,atac_only
+positive regulation of protein kinase activity (GO:0045860),3/154,0.0041248248386223,0.0741137882294403,Pancreas,atac_only
+skeletal system development (GO:0001501),3/158,0.0044311067402378,0.0771289516972647,Pancreas,atac_only
+positive regulation of protein kinase B signaling (GO:0051897),3/161,0.0046696584422454,0.0788181743130512,Pancreas,atac_only
+positive regulation of intracellular signal transduction (GO:1902533),5/546,0.0055044873673471,0.0851666517670093,Pancreas,atac_only
+innate immune response (GO:0045087),11/302,8.335262938230825e-11,6.093077207846733e-08,Spleen,rna_only
+cytokine-mediated signaling pathway (GO:0019221),13/621,1.1732144736641663e-09,4.288098901242529e-07,Spleen,rna_only
+regulation of T cell activation (GO:0050863),5/47,8.200819700772928e-08,1.9982664004216705e-05,Spleen,rna_only
+regulation of interleukin-18 production (GO:0032661),3/8,6.754660609004987e-07,0.00012344142262956612,Spleen,rna_only
+regulation of interleukin-1 beta production (GO:0032651),5/83,1.4574752285561417e-06,0.0002130828784149079,Spleen,rna_only
+antifungal innate immune response (GO:0061760),3/13,3.421415388509072e-06,0.000388015592047044,Spleen,rna_only
+positive regulation of nervous system development (GO:0051962),4/45,3.715607584581816e-06,0.000388015592047044,Spleen,rna_only
+cellular response to interferon-gamma (GO:0071346),5/121,9.33702731479756e-06,0.0008531708708896272,Spleen,rna_only
+cellular response to cytokine stimulus (GO:0071345),8/482,1.4783737532610765e-05,0.001146850653693,Spleen,rna_only
+inflammatory response (GO:0006954),6/230,1.568879143218915e-05,0.001146850653693,Spleen,rna_only
+defense response to fungus (GO:0050832),3/24,2.3778131012823394e-05,0.0015801648882158,Spleen,rna_only
+response to interferon-gamma (GO:0034341),4/80,3.713942717567512e-05,0.0022624101054515,Spleen,rna_only
+B cell activation (GO:0042113),4/85,4.714050878732462e-05,0.002465976442205,Spleen,rna_only
+negative regulation of interleukin-1 production (GO:0032692),3/30,4.722800299708779e-05,0.002465976442205,Spleen,rna_only
+positive regulation of defense response (GO:0031349),4/98,8.224409860594495e-05,0.0037575272550591,Spleen,rna_only
+antigen receptor-mediated signaling pathway (GO:0050851),8/185,2.0875805586197524e-08,9.590329214486286e-06,Spleen,atac_only
+B cell receptor signaling pathway (GO:0050853),5/34,2.3193057350631892e-08,9.590329214486286e-06,Spleen,atac_only
+regulation of B cell proliferation (GO:0030888),5/46,1.116573405502257e-07,3.078020687834556e-05,Spleen,atac_only
+protein phosphorylation (GO:0006468),10/496,4.125698569202185e-07,8.529881791825516e-05,Spleen,atac_only
+innate immune response (GO:0045087),8/302,8.926643105955201e-07,0.00014764667697249903,Spleen,atac_only
+regulation of mast cell activation involved in immune response (GO:0033006),3/11,2.540400260486493e-06,0.0003501518359037216,Spleen,atac_only
+regulation of mast cell degranulation (GO:0043304),3/16,8.544816199920117e-06,0.0010095089996191,Spleen,atac_only
+positive regulation of cytokine production (GO:0001819),7/335,2.136099598368489e-05,0.0019769112326108,Spleen,atac_only
+regulation of platelet activation (GO:0010543),3/22,2.32461242149461e-05,0.0019769112326108,Spleen,atac_only
+cytokine-mediated signaling pathway (GO:0019221),9/621,2.400725569856093e-05,0.0019769112326108,Spleen,atac_only
+regulation of B cell receptor signaling pathway (GO:0050855),3/23,2.6685026718526988e-05,0.0019769112326108,Spleen,atac_only
+peptidyl-tyrosine phosphorylation (GO:0018108),4/69,2.868553179120908e-05,0.0019769112326108,Spleen,atac_only
+positive regulation of B cell proliferation (GO:0030890),3/30,6.041027767358791e-05,0.0038430230489274,Spleen,atac_only
+activation of phospholipase C activity (GO:0007202),3/32,7.353695372167986e-05,0.0043439329091306,Spleen,atac_only
+regulation of immune response (GO:0050776),5/179,9.139021855914392e-05,0.0050386473832274,Spleen,atac_only

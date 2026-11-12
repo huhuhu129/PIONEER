@@ -1,0 +1,21 @@
+{
+  "tissue": "Kidney",
+  "species": "human",
+  "fold": 4,
+  "fusion": "gate",
+  "params": 174468,
+  "train_edges": 375,
+  "val_edges": 94,
+  "rna_nodes": 1309,
+  "atac_nodes": 4605,
+  "auc": 0.888825,
+  "aupr": 0.898579,
+  "acc": 0.762712,
+  "f1": 0.714286,
+  "precision": 0.897436,
+  "recall": 0.59322,
+  "eval_pos_count": 59,
+  "eval_neg_count": 59,
+  "best_epoch": 265,
+  "total_epochs": 270
+}

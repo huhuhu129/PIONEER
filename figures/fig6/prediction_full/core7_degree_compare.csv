@@ -1,0 +1,8 @@
+gene,PD_deg,ctrl_deg,delta,in_PD,in_ctrl
+SNCA,64,47,17,True,True
+LRRK2,0,4,-4,False,True
+PRKN,34,28,6,True,True
+PINK1,0,0,0,False,False
+PARK7,96,15,81,True,True
+GBA,0,0,0,False,False
+VPS35,6,4,2,True,True

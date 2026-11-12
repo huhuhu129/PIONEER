@@ -1,0 +1,8 @@
+{
+  "best_auc": 0.910904888888889,
+  "best_aupr": 0.8990218811024071,
+  "fold": 3,
+  "tissue": "Thymus",
+  "species": "mouse",
+  "fusion": "atac_only"
+}

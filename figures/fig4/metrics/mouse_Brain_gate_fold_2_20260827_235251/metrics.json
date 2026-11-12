@@ -1,0 +1,8 @@
+{
+  "best_auc": 0.8625354442344044,
+  "best_aupr": 0.8798804592241101,
+  "fold": 2,
+  "tissue": "Brain",
+  "species": "mouse",
+  "fusion": "gate"
+}

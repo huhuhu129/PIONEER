@@ -1,0 +1,83 @@
+{
+  "per_tissue": {
+    "Heart": {
+      "n_nodes": 241,
+      "n_gold": 523,
+      "K": 523,
+      "rna_topk": 523,
+      "atac_topk": 523,
+      "uniq_rna": 464,
+      "uniq_atac": 464,
+      "shared": 59,
+      "gold_rna": 81,
+      "gold_atac": 109,
+      "gold_shared": 27,
+      "jaccard": 0.0598
+    },
+    "Kidney": {
+      "n_nodes": 192,
+      "n_gold": 278,
+      "K": 278,
+      "rna_topk": 278,
+      "atac_topk": 278,
+      "uniq_rna": 260,
+      "uniq_atac": 260,
+      "shared": 18,
+      "gold_rna": 18,
+      "gold_atac": 53,
+      "gold_shared": 14,
+      "jaccard": 0.0335
+    },
+    "Muscle": {
+      "n_nodes": 102,
+      "n_gold": 160,
+      "K": 160,
+      "rna_topk": 160,
+      "atac_topk": 160,
+      "uniq_rna": 141,
+      "uniq_atac": 141,
+      "shared": 19,
+      "gold_rna": 26,
+      "gold_atac": 35,
+      "gold_shared": 12,
+      "jaccard": 0.0631
+    },
+    "Pancreas": {
+      "n_nodes": 88,
+      "n_gold": 122,
+      "K": 122,
+      "rna_topk": 122,
+      "atac_topk": 122,
+      "uniq_rna": 101,
+      "uniq_atac": 101,
+      "shared": 21,
+      "gold_rna": 21,
+      "gold_atac": 19,
+      "gold_shared": 8,
+      "jaccard": 0.0942
+    },
+    "Spleen": {
+      "n_nodes": 150,
+      "n_gold": 303,
+      "K": 303,
+      "rna_topk": 303,
+      "atac_topk": 303,
+      "uniq_rna": 282,
+      "uniq_atac": 282,
+      "shared": 21,
+      "gold_rna": 40,
+      "gold_atac": 49,
+      "gold_shared": 8,
+      "jaccard": 0.0359
+    }
+  },
+  "overall": {
+    "n_tissues": 5,
+    "uniq_rna": 1246,
+    "uniq_atac": 1246,
+    "shared": 138,
+    "gold_rna": 186,
+    "gold_atac": 262,
+    "gold_shared": 69
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "best_auc": 0.8549581224277665,
+  "best_aupr": 0.8641810610935251,
+  "fold": 3,
+  "tissue": "Kidney",
+  "species": "human",
+  "fusion": "gate"
+}

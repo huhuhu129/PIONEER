@@ -1,0 +1,8 @@
+{
+  "best_auc": 0.8658777120315582,
+  "best_aupr": 0.8655501869624692,
+  "fold": 2,
+  "tissue": "Muscle",
+  "species": "human",
+  "fusion": "rna_only"
+}

@@ -1,0 +1,8 @@
+{
+  "best_auc": 0.8241415192507804,
+  "best_aupr": 0.8627439426787427,
+  "fold": 5,
+  "tissue": "Kidney",
+  "species": "human",
+  "fusion": "atac_only"
+}

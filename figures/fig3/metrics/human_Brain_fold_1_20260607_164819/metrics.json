@@ -1,0 +1,7 @@
+{
+  "best_auc": 0.9002920000000001,
+  "best_aupr": 0.9140090416137862,
+  "fold": 1,
+  "tissue": "Brain",
+  "species": "human"
+}

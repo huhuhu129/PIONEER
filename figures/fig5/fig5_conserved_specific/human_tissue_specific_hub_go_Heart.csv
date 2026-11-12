@@ -1,0 +1,2 @@
+Gene_set,Term,Overlap,P-value,Adjusted P-value,Old P-value,Old Adjusted P-value,Odds Ratio,Combined Score,Genes
+GO_Biological_Process_2021,mitochondrion transport along microtubule (GO:0047497),3/13,4.8195291737570064e-05,0.0389417957239566,0,0,54.21,538.8609104044198,RHOT2;OPA1;MAP1S

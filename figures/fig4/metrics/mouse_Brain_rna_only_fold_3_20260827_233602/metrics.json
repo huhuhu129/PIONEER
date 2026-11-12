@@ -1,0 +1,8 @@
+{
+  "best_auc": 0.885703125,
+  "best_aupr": 0.8902951544695421,
+  "fold": 3,
+  "tissue": "Brain",
+  "species": "mouse",
+  "fusion": "rna_only"
+}

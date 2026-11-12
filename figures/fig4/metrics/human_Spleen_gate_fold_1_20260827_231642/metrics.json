@@ -1,0 +1,8 @@
+{
+  "best_auc": 0.8592837151847443,
+  "best_aupr": 0.8653943993017629,
+  "fold": 1,
+  "tissue": "Spleen",
+  "species": "human",
+  "fusion": "gate"
+}
