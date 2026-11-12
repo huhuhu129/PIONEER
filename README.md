@@ -82,13 +82,13 @@ PIONEER uses dual GIN encoders to independently model:
 - **ATAC-guided chromatin regulatory subgraph** (upstream: chromatin accessibility)
 - **RNA-guided transcriptional expression subgraph** (downstream: gene transcription)
 
-Gated cross-modal fusion and NT-Xent contrastive alignment integrate both regulatory layers. For disease inference, pre-trained normal brain ATAC weights are frozen while PD-derived scRNA-seq features replace normal RNA features.
+Gated cross-modal fusion integrates both regulatory layers. For disease inference, the model is trained on control (non-PD) midbrain RNA and ATAC features supervised by the human-brain PPI gold standard, then applied to PD RNA and ATAC features to predict the PD-specific interactome.
 
 ## Data Sources
 
 - **Mouse (7 tissues)**: Brain, Heart, Kidney, Liver, Lung, Muscle, Thymus — Tabula Muris scRNA-seq; ENCODE mouse scATAC-seq; PCP-SILAM gold-standard PPIs
 - **Human (6 tissues)**: Brain, Heart, Kidney, Muscle, Pancreas, Spleen — Tabula Sapiens scRNA-seq; Human scATAC-Corpus; BICCN STRATOME (brain); IID gold-standard PPIs
-- **PD**: GSE157783 (snRNA-seq, model input); GSE147672 (snATAC-seq, post-hoc annotation only)
+- **PD**: GSE157783 (snRNA-seq, model input); GSE148434 (snATAC-seq, model input)
 - **Global PPI scaffold**: STRING v12.0
 
 ## Reference
